@@ -1,0 +1,173 @@
+#body
+{
+    text-align: center;
+}
+
+#title1 
+{
+    color:darkgreen;
+    font-family: agency FB;
+    font-size: 90;
+    font-weight: bolder;
+    text-align:center;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+#title2
+{
+    color:green;
+    font-family: agency FB;
+    font-size: 80;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 20;
+    font-style: underline;
+}
+
+#tree1
+{
+    margin-top: 20;
+    margin-bottom: 0;
+    margin-left: 200;
+    margin-right: 150;
+}
+
+#tree2
+{
+    margin-top: 20;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 200;
+    border-color: rgb(87, 159, 87);
+    border-width: 3;
+    border-style: solid;
+}
+
+#tree3
+{
+    border-color: rgb(87, 159, 87);
+    border-width: 3;
+    border-style: solid;
+}
+
+#madeBy
+{
+    text-align: center;
+    font-size: 20;
+    position: fixed;
+    bottom:0;
+    background-color: gray;
+    color:black;
+    font-family: calibri;
+    width: 1900;
+
+}
+
+#welcomeTitle
+{
+    color:black;
+    border-color:black;
+    border-width: 3;
+    border-style: ridge;
+    width: 200;
+    height: 125;
+    margin-left: 275;
+    text-align: center;
+    font-family: algerian;
+    font-size: 25;
+}
+
+#envCornTitle
+{
+    color:black;
+    border-color:black;
+    border-width: 3;
+    border-style: ridge;
+    width: 200;
+    height: 125;
+    margin-left: 275;
+    text-align: center;
+    font-family: algerian;
+    font-size: 25;
+}
+
+#welcomeDPSMIS
+{
+    font-family: calibri;
+    font-weight: normal;
+    margin-left: -1150px;
+    text-align: center;
+}
+
+#readDPSMISmore
+{
+    color:white;
+    background-color: green;
+    font-size: 20;
+    border-color:rgb(0, 255, 21);
+    border-width: 1;
+    border-style: ridge;
+    width:150;
+    height:50;
+    font-weight: bold;
+    font-family: calibri;
+    margin-left: 16%;
+    border-radius: 25%;
+}
+
+#envCornInfo
+{
+    font-family: calibri;
+    font-weight: normal;
+    margin-left: -150px;
+    text-align: center;
+}
+
+#readENVCORNmore
+{
+    color:white;
+    background-color: green;
+    font-size: 20;
+    border-color:rgb(0, 255, 21);
+    border-width: 1;
+    border-style: ridge;
+    width:150;
+    height:50;
+    font-weight: bold;
+    font-family: calibri;
+    border-radius: 25%;
+    margin-left: 300px;
+}
+
+#logo
+{
+    margin-left: 40%;
+}
+
+button:hover
+{
+    cursor:hand;
+}
+
+#back:hover
+{
+    cursor:hand;
+}
+
+#next:hover
+{
+    cursor:hand;
+}
+
+#prev:hover
+{
+    cursor:hand;
+}
+#rightDIV
+{
+    margin-left: 1000px;
+    margin-top: -305px;
+}
+

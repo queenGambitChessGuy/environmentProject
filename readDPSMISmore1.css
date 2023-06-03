@@ -1,0 +1,74 @@
+#title1 
+{
+    color:black;
+    font-family: agency FB;
+    font-size: 90;
+    font-weight: bolder;
+    text-align:center;
+    margin-top: 0;
+    font-style: underline;
+    width:100%;
+}
+
+#back
+{
+    width:100px;
+    height:100px;
+    float: right;
+}
+
+#aboutDPSMIS
+{
+    font-family: calibri;
+    font-size: 30;
+}
+
+#AreaAndBuildingTitle
+{
+    font-size: 40;
+    font-weight: bolder;
+    margin-top: 20;
+    font-family: calibri;
+    margin-bottom: 0;
+}
+
+#AreaAndBuildingInfo
+{
+    font-family: calibri;
+    margin-top: 0;
+    font-size: 30;
+}
+
+#prev
+{
+    margin-left: 100;
+    width:160;
+    height:75;
+}
+
+#next
+{
+    margin-left: 1500;
+    width:160;
+    height:75;
+}
+
+button:hover
+{
+    cursor:hand;
+}
+
+#back:hover
+{
+    cursor:hand;
+}
+
+#next:hover
+{
+    cursor:hand;
+}
+
+#prev:hover
+{
+    cursor:hand;
+}
